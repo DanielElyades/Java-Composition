@@ -53,10 +53,10 @@ public class Worker {
 	public void setDepartament(Departament departament) {
 		this.departament = departament;
 	}
-	//public void setContracts(List<HourContract> contracts) {
-    //this.contracts = contracts;
-	//}
-	
+//	public void setContracts(List<HourContract> contracts) {
+//    this.contracts = contracts;
+//	}
+
 	
 	public void addContract(HourContract contract) {
 		contracts.add(contract);
